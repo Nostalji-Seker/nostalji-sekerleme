@@ -11,12 +11,14 @@ function ResponsivePlayer() {
       <div className="mainText">
         <h1>Nostalji Şekerleme</h1>
         <p>Organizasyonunuzu tatlandırmak için hizmetinizdeyiz..</p>
-        <Button color="dark" href="/about" className="mr-2 mb-1">
-          Daha Fazla Bilgi
-        </Button>
-        <Button color="info" href="/contact">
-          Bize Ulaşın
-        </Button>
+        <div>
+          <Button color="dark" href="/about" className="mr-2">
+            Daha Fazla Bilgi
+          </Button>
+          <Button color="info" href="/contact">
+            Bize Ulaşın
+          </Button>
+        </div>
       </div>
     </div>
   );
