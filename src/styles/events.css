@@ -1,4 +1,9 @@
 .cardStyle {
   width: 25rem;
+  max-width: 100%;
   border: 1px solid;
+}
+
+#events {
+  margin-top: 15vh;
 }

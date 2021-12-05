@@ -2,6 +2,10 @@
   font-weight: 700;
 }
 
+#products {
+  margin-top: 15vh;
+}
+
 @media (min-width: 1200px) {
   .productDescribe {
     font-size: 1.2rem;

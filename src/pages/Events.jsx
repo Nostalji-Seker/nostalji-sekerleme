@@ -23,7 +23,7 @@ function Events() {
   ];
 
   return (
-    <Container>
+    <Container id="events">
       <Row>
         <Col>
           <Card border="white" className="d-flex text-center">

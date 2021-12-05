@@ -5,7 +5,7 @@ import productData from "../productsInfo.json";
 
 function Products() {
   return (
-    <div>
+    <div id="products">
       <Row className="my-3 d-flex text-center">
         <Col lg={12}>
           <Card border="white">

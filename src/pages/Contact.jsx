@@ -6,7 +6,7 @@ import "../styles/contact.css";
 
 function Contact() {
   return (
-    <div>
+    <div id="contact">
       <CardGroup className="my-5 mx-2 mx-md-5">
         <Card bg="light" border="light" className="">
           <Card.Body className="d-flex flex-column justify-content-center text-center">
