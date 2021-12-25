@@ -24,7 +24,7 @@ Diese Website wurde zur Förderung eines Unternehmens erstellt, das verschiedene
 
 ## Wie kann ich die Website anzeigen?
 
-**[Sie können auf diesen Link klicken](https://bursanostaljisekerleme.com/)**
+**[Sie können auf diesen Link klicken](https://www.bursanostaljisekerleme.com/)**
 
 
 
