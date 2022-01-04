@@ -1,5 +1,3 @@
-
-
 ## Was  für eine App?
 
 Diese Website wurde zur Förderung eines Unternehmens erstellt, das verschiedene Dienstleistungen in Organisationen in der Türkei anbietet.
