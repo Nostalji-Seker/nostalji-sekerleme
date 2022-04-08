@@ -9,16 +9,16 @@ function Events() {
       imgUrl:
         "https://yugesk.files.wordpress.com/2019/10/img_20191005_0419171573987058.jpg",
       name: "İznik Panayırı",
-      date: "09.10.2021 - 13:00",
+      date: "03.10.2022 - 13:00",
       place: "İznik Meydan",
     },
 
     {
       imgUrl:
-        "https://www.kitabimukaddes.com/images/blog/1/tuyapkitapfuari2015.jpg?t=1620839118://yugesk.files.wordpress.com/2019/10/img_20191005_0419171573987058.jpg",
-      name: "Kitap Fuarı",
-      date: "15.04.2022 - 09:00",
-      place: "Tüyap Fuar Alanı",
+        "https://www.nilufer.bel.tr/i/haber/6223.jpg",
+      name: "19 Mayıs Genclik Yürüyüsü",
+      date: "19.05.2022 - 18:00",
+      place: "Nilüfer Belediye Maydani ve FSM",
     },
   ];
 

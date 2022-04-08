@@ -5,10 +5,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function About() {
   return (
-    <Container fluid="lg" className="about py-3">
+    <Container fluid="lg" className="about py-1">
       <Card border="white" className="d-flex text-center">
         <Card.Body>
-          <Card.Header as="h2" className="mb-5 border-0 bg-white ">
+          <Card.Header as="h2" className="mb-1 border-0 bg-white ">
             Hikayemiz
           </Card.Header>
           <Card.Text className="text-justify border-0">
