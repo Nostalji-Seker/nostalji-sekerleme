@@ -6,3 +6,7 @@
   margin: 90px auto;
   width: 100%;
 }
+
+.product__item {
+  max-height: 100%;
+}
