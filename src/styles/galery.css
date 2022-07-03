@@ -3,10 +3,37 @@
 }
 
 .galerySlider {
-  margin: 90px auto;
-  width: 100%;
+  margin: 130px auto;
+  width: 50%;
+  padding: 0 10px;
+
+}
+
+@media screen and (max-width: 800px) {
+  .galerySlider {
+    width: 90%;
+
+  }
+
+ 
+}
+
+.galerySlider h2 {
+  margin-bottom: 30px;
 }
 
 .product__item {
   max-height: 100%;
+}
+
+
+.products__arrows {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.products__arrows div img {
+  height: 50px;
 }
